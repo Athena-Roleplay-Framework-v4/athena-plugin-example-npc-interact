@@ -16,12 +16,12 @@ cd src/core/plugins
 **SSH**
 
 ```
-git clone git@github.com:Stuyk/athena-plugin-npc-interact.git
+git clone git@github.com:Stuyk/athena-plugin-example-npc-interact.git
 ```
 
 **HTTPS**
 ```
-git clone https://github.com/Stuyk/athena-plugin-npc-interact
+git clone https://github.com/Stuyk/athena-plugin-example-npc-interact
 ```
 
 4. Start the Server
