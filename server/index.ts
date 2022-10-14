@@ -1,6 +1,6 @@
 import * as alt from 'alt-server';
-import { Athena } from '../../../server/api/athena';
-import { PluginSystem } from '../../../server/systems/plugins';
+import { Athena } from '@AthenaServer/api/athena';
+import { PluginSystem } from '@AthenaServer/systems/plugins';
 import { EXAMPLE_NPC_INTERACT } from '../shared/info';
 
 const PLUGIN_NAME = 'Single Shop Ped';

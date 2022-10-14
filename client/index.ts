@@ -1,7 +1,7 @@
 import * as native from 'natives';
-import { NpcWheelMenu } from '../../../client/menus/npc';
-import { IPed } from '../../../shared/interfaces/iPed';
-import { IWheelOptionExt } from '../../../shared/interfaces/wheelMenu';
+import { NpcWheelMenu } from '@AthenaClient/menus/npc';
+import { IPed } from '@AthenaShared/interfaces/iPed';
+import { IWheelOptionExt } from '@AthenaShared/interfaces/wheelMenu';
 import { EXAMPLE_NPC_INTERACT } from '../shared/info';
 
 class InternalFunctions {
